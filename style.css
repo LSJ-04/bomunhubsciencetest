@@ -162,6 +162,28 @@ article {
     display: none;
 }
 
+#naver{
+    position: relative;
+    top: 100%;
+    left: 50%;
+    margin-top: 100px;
+    transform: translate(-50%,0%);
+    border: 10px solid;
+    padding: 10px;
+    display: none;
+}
+
+#lans{
+    position: relative;
+    top: 100%;
+    left: 50%;
+    margin-top: 100px;
+    transform: translate(-50%,0%);
+    border: 10px solid;
+    padding: 10px;
+    display: none;
+}
+
 .share{
     margin: 0 auto;
 }
