@@ -151,6 +151,16 @@ article {
     height: 300px;
     margin: 0 auto;
 }
+#img1 {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+}
+#img2 {
+    width: 700px;
+    height: 700px;
+    margin: 0 auto;
+}
 
 #reload{
     position: relative;
